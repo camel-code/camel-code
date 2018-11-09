@@ -8,4 +8,7 @@ app_name = 'forum'
 urlpatterns = [
     # /forum/
     path('', views.index, name='index'),
+
+    # /forum/post_id/
+    path('<int:post_id>/', views.forumPage, name='index'),
 ]
