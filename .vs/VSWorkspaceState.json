@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\camelcode",
-    "\\camelcode\\camelcode",
-    "\\camelcode\\forum",
-    "\\camelcode\\forum\\templates",
-    "\\camelcode\\forum\\templates\\forum"
+    "\\CamelCode",
+    "\\CamelCode\\CamelCode",
+    "\\CamelCode\\forum",
+    "\\CamelCode\\forum\\templates",
+    "\\CamelCode\\forum\\templates\\forum",
+    "\\CamelCode\\update"
   ],
-  "SelectedNode": "\\camelcode\\camelcode\\settings.py",
+  "SelectedNode": "\\CamelCode\\CamelCode\\settings.py",
   "PreviewInSolutionExplorer": false
 }
